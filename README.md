@@ -2,6 +2,9 @@
 C언어 스터디입니다.
 C언어 왕기초부터 자료구조 왕기초까지
 
+<img width="300" height="200" alt="new-club-logo-black-horizon1" src="https://github.com/user-attachments/assets/3d386fe8-24ea-4cda-adcd-fbdfee7c1850" />
+
+
 ## 📚 강의 일정표
 
 | 주차 | 날짜 | 내용 |
